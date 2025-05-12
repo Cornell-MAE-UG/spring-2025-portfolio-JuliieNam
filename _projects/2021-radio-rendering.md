@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
+title: Adapt-a-bit
+description: Mechanical Design Project
 technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
 ---
