@@ -3,7 +3,7 @@ layout: project
 title: Adapt-a-bit
 description: Mechanical Design Project
 technologies: [Autodesk Fusion, 3D printing]
-image: /assets/images/Adapt-a-bit.jpg
+image: /assets/images/adapt-a-bit.png
 ---
 
 For Introduction to Mechanical Design, my team and I designed a multifunctional keychain case that would function as a screwdriver and a tape measure. This was meant to people who prefer a compact, functional tools to help simplify everyday tasks.
