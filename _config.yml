@@ -13,8 +13,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Julie
 description              : Julie - Projects and CV 
-baseurl                  : "/spring-2025-portfolio-Juliienam/" 
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/spring-2025-portfolio-JuliieNam/" 
+url                      : "https://cornell-mae-ug.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
