@@ -14,7 +14,6 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : Julie
 description              : Julie - Projects and CV 
 baseurl                  : "/spring-2025-portfolio-JuliieNam/" 
-url                      : "https://cornell-mae-ug.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
