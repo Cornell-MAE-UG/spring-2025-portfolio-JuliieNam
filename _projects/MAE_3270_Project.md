@@ -1,0 +1,49 @@
+---
+layout: project
+title: Torque Wrench Design Project
+description: MAE 3270 Final Project
+technologies: [Autodesk Fusion, ANSYS]
+image: /assets/images/adapt-a-bit.png
+---
+
+For my materials class at Cornell, my final project was to design a non-ratcheting ⅜ drive torque wrench. The goal was to maximize the voltage output of the wrench (mV/V) at the rated torque. The wrench must sustain a fully reversed torque of T = 600 in-lbf for 10^6 cycles. The following design requirements had to be met:
+Attain at least 1.0 mV/V output at the rated torque of 600 in-lbf
+Safety factor of X_o = 4 for yield or brittle failure
+Safety factor of X_k = 2 for crack growth from an assumed crack of depth of 0.04 inches (1 mm) 
+Fatigue stress safety factor of X_s = 1.5
+Material must be a steel, aluminum, or titanium alloy
+
+Images of the CAD model are shown below. The key dimensions of my design are L = 20 inches, h = 0.6 inches, b = 0.25 inches, and c = 1.
+
+
+The material that I used was AISI 4340. Here are the relevant mechanical properties that I used for my analysis:
+Young’s Modulus: 29 x 10^6 psi
+Poisson’s ratio: 0.32
+Yield strength: 217 ksi
+Fracture toughness: 75 ksi*in^1/2
+Fatigue strength: 90 ksi
+
+Normal strain contours (in the strain gauge direction) from FEM:
+![Strain contour]({{ "/assets/images/3270 torque wrench strain.png" | relative_url }}){: style="width: 600px"}
+
+Contour plot of maximum principal stress:
+![Maximum principal stress contour]({{ "/assets/images/3270 Torque Wrench 2 max principal stress.png" | relative_url }}){: style="width: 600px"}
+
+Maximum normal stress is around 64151 psi. However, on the handle according to the beam theory, it is around 39130 psi.
+![Max normal stress]({{ "/assets/images/3270 torque wrench deformation.png" | relative_url }}){: style="width: 600px"}
+
+Load Point Deflection around 0.67334 inches
+![Deflection]({{ "/assets/images/3270 torque wrench 2 max stresses.png" | relative_url }}){: style="width: 600px"}
+
+Strain at the strain gauge locations is around 1310.3 microstrain.
+
+Torque wrench sensitivity: 1.3101 mV/V
+Output goal is met! Now let's calculate the safety factors for yield, crack, and fatigue stress. I will be using the stress value on the handle according to beam theory, which is around 39130 psi.
+Yield safety factor is around 5.546 > 4
+Crack safety factor is around 4.723 > 2
+Fatigue stress safety factor is around 2.300 > 1.5
+Safety factor requirements are met!!
+
+Strain gauge selected:
+SGD-3/350-LY13 from DWYEROMEGA. More information about the strain gauge is linked here: https://assets.dwyeromega.com/pdf/test-and-measurement-equipment/strain-gauges/SGD_LINEAR1-AXIS.pdf
+Dimensions are 0.157 in x 0.276 in, which would fit on the handle!
