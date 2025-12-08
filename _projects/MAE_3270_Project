@@ -16,6 +16,7 @@ Fracture toughness: 75 ksi*in^1/2
 Fatigue strength: 90 ksi
 
 Normal strain contours (in the strain gauge direction) from FEM:
+({{ "/assets/images/3270 torque wrench strain.png" | relative_url }}){: style="width: 600px"}
 
 Contour plot of maximum principal stress:
 
