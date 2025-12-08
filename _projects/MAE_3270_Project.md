@@ -25,16 +25,16 @@ Fracture toughness: 75 ksi*in^1/2
 Fatigue strength: 90 ksi
 
 Normal strain contours (in the strain gauge direction) from FEM:
-![Strain contour]({{ "/assets/images/3270 torque wrench 2 strain.png" | relative_url }}){: style="width: 600px"}
+![Strain contour]({{ "/assets/images/3270_Torque_Wrench_Strain.png" | relative_url }}){: style="width: 600px"}
 
 Contour plot of maximum principal stress:
-![Maximum principal stress contour]({{ "/assets/images/3270 Torque Wrench 2 max principal stress.png" | relative_url }}){: style="width: 600px"}
+![Maximum principal stress contour]({{ "/assets/images/3270_Torque_Wrench_MaxPrincipalStress.png" | relative_url }}){: style="width: 600px"}
 
 Maximum normal stress is around 64151 psi. However, on the handle according to the beam theory, it is around 39130 psi.
-![Max normal stress]({{ "/assets/images/3270 torque wrench deformation.png" | relative_url }}){: style="width: 600px"}
+![Max normal stress]({{ "/assets/images/3270_Torque_Wrench_Stress.png" | relative_url }}){: style="width: 600px"}
 
 Load Point Deflection around 0.67334 inches
-![Deflection]({{ "/assets/images/3270 torque wrench 2 max stresses.png" | relative_url }}){: style="width: 600px"}
+![Deflection]({{ "/assets/images/3270_Torque_Wrench_Deformation.png" | relative_url }}){: style="width: 600px"}
 
 Strain at the strain gauge locations is around 1310.3 microstrain.
 
