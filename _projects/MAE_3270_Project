@@ -19,10 +19,15 @@ Normal strain contours (in the strain gauge direction) from FEM:
 ({{ "/assets/images/3270 torque wrench strain.png" | relative_url }}){: style="width: 600px"}
 
 Contour plot of maximum principal stress:
+({{ "/assets/images/3270 Torque Wrench 2 max principal stress.png" | relative_url }}){: style="width: 600px"}
 
 Maximum normal stress is around 64151 psi. However, on the handle according to the beam theory, it is around 39130 psi.
+({{ "/assets/images/3270 torque wrench deformation.png" | relative_url }}){: style="width: 600px"}
+
 Load Point Deflection around 0.67334 inches
-Strain at the strain gauge locations is around 1310.3 microstrain
+({{ "/assets/images/3270 torque wrench 2 max stresses.png" | relative_url }}){: style="width: 600px"}
+
+Strain at the strain gauge locations is around 1310.3 microstrain.
 
 Torque wrench sensitivity: 1.3101 mV/V
 Output goal is met! Now let's calculate the safety factors for yield, crack, and fatigue stress. I will be using the stress value on the handle according to beam theory, which is around 39130 psi.
