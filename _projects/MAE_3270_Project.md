@@ -45,5 +45,5 @@ Fatigue stress safety factor is around 2.300 > 1.5
 Safety factor requirements are met!!
 
 Strain gauge selected:
-SGD-3/350-LY13 from DWYEROMEGA. More information about the strain gauge is linked here: (https://assets.dwyeromega.com/pdf/test-and-measurement-equipment/strain-gauges/SGD_LINEAR1-AXIS.pdf)
+SGD-3/350-LY13 from DWYEROMEGA. More information about the strain gauge is linked here: (https://assets.dwyeromega.com/pdf/test-and-measurement-equipment/strain-gauges/SGD_LINEAR1-AXIS.pdf)  
 Dimensions are 0.157 in x 0.276 in, which would fit on the handle!
