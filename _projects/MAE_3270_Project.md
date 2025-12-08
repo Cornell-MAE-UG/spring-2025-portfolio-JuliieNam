@@ -15,6 +15,7 @@ Material must be a steel, aluminum, or titanium alloy
 
 Images of the CAD model are shown below. The key dimensions of my design are L = 20 inches, h = 0.6 inches, b = 0.25 inches, and c = 1.
 
+The boundary condition used in this project was adding clamped conditions to the drive (meaning that the displacement in the x, y, and z directions was zero). Force was applied at the other end of the wrench in the x direction with a magnitude of M/L = 30 lbf. Photos are shown below of the boundary condition and force.
 
 The material that I used was AISI 4340. Here are the relevant mechanical properties that I used for my analysis:
 Young’s Modulus: 29 x 10^6 psi
