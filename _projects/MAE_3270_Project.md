@@ -66,4 +66,8 @@ Strain gauge selected:
 SGD-3/350-LY13 from DWYEROMEGA. More information about the strain gauge is linked here: https://assets.dwyeromega.com/pdf/test-and-measurement-equipment/strain-gauges/SGD_LINEAR1-AXIS.pdf  
 Dimensions are 0.157 in x 0.276 in, which would fit on the handle!  
 
-As a little bonus, below are the MATLAB hand calculations that were used. The normal stress calculated by MATLAB is around 40,000 psi, which is very close to the beam theory ANSYS analysis value. The screenshots include the equations that I used when calculating my safety factors. 
+As a little bonus, below are the MATLAB hand calculations that were used and the results. The normal stress calculated by MATLAB is around 40,000 psi, which is very close to the beam theory ANSYS analysis value. The screenshots include the equations that I used when calculating my safety factors for the ANSYS analysis.
+![MATLAB1]({{ "/assets/images/3270_Torque_Wrench_MATLAB1.png" | relative_url }}){: style="width: 600px"}
+![MATLAB2]({{ "/assets/images/3270_Torque_Wrench_MATLAB2.png" | relative_url }}){: style="width: 600px"}
+
+![MATLAB3]({{ "/assets/images/3270_Torque_Wrench_MATLAB3.png" | relative_url }}){: style="width: 600px"}
