@@ -3,7 +3,7 @@ layout: project
 title: Torque Wrench Design Project
 description: MAE 3270 Final Project
 technologies: [Autodesk Fusion, ANSYS]
-image: /assets/images/adapt-a-bit.png
+image: /assets/images/3270 Torque Wrench Picture.png
 ---
 
 For my materials class at Cornell, my final project was to design a non-ratcheting ⅜ drive torque wrench. The goal was to maximize the voltage output of the wrench (mV/V) at the rated torque. The wrench must sustain a fully reversed torque of T = 600 in-lbf for 10^6 cycles. The following design requirements had to be met:
