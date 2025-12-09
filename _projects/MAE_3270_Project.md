@@ -2,7 +2,7 @@
 layout: project
 title: Torque Wrench Design Project
 description: MAE 3270 Final Project
-technologies: [Autodesk Fusion, ANSYS]
+technologies: [Autodesk Fusion, ANSYS, Granta]
 image: /assets/images/3270 Torque Wrench Picture.png
 ---
 
