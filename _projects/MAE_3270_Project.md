@@ -15,7 +15,10 @@ Material must be a steel, aluminum, or titanium alloy
 
 Images of the CAD model are shown below. The key dimensions of my design are L = 20 inches, h = 0.6 inches, b = 0.25 inches, and c = 1.
 
-The boundary condition used in this project was adding clamped conditions to the drive (meaning that the displacement in the x, y, and z directions was zero). Force was applied at the other end of the wrench in the x direction with a magnitude of M/L = 30 lbf. Photos are shown below of the boundary condition and force.
+The boundary condition used in this project was adding clamped conditions to the drive (meaning that the displacement in the x, y, and z directions was zero). Force was applied at the other end of the wrench in the x direction with a magnitude of M/L = 30 lbf. Photos are shown below of the boundary condition and force, respectively.
+![Boundary Condition]({{ "/assets/images/3270_Torque_Wrench_BC.png" | relative_url }}){: style="width: 600px"}
+
+![Force Applied]({{ "/assets/images/3270_Torque_Wrench_Force.png" | relative_url }}){: style="width: 600px"}
 
 The material that I used was AISI 4340. Here are the relevant mechanical properties that I used for my analysis:
 Young’s Modulus: 29 x 10^6 psi
@@ -37,8 +40,9 @@ Load Point Deflection around 0.67334 inches
 ![Deflection]({{ "/assets/images/3270_Torque_Wrench_Deformation.png" | relative_url }}){: style="width: 600px"}
 
 Strain at the strain gauge locations is around 1310.3 microstrain.
+![Strain Probe]({{ "/assets/images/3270_Torque_Wrench_StrainProbe.png" | relative_url }}){: style="width: 600px"}
 
-Torque wrench sensitivity: 1.3101 mV/V
+Torque wrench sensitivity using the half bridge: 1.3101 mV/V
 Output goal is met! Now let's calculate the safety factors for yield, crack, and fatigue stress. I will be using the stress value on the handle according to beam theory, which is around 39130 psi.
 Yield safety factor is around 5.546 > 4
 Crack safety factor is around 4.723 > 2
