@@ -7,20 +7,30 @@ image: /assets/images/3270 Torque Wrench Picture.png
 ---
 
 For my materials class at Cornell, my final project was to design a non-ratcheting ⅜ drive torque wrench. The goal was to maximize the voltage output of the wrench (mV/V) at the rated torque. The wrench must sustain a fully reversed torque of T = 600 in-lbf for 10^6 cycles. The following design requirements had to be met:
-Attain at least 1.0 mV/V output at the rated torque of 600 in-lbf
-Safety factor of X_o = 4 for yield or brittle failure
-Safety factor of X_k = 2 for crack growth from an assumed crack of depth of 0.04 inches (1 mm) 
-Fatigue stress safety factor of X_s = 1.5
-Material must be a steel, aluminum, or titanium alloy
+- Attain at least 1.0 mV/V output at the rated torque of 600 in-lbf
+- Safety factor of X_o = 4 for yield or brittle failure
+- Safety factor of X_k = 2 for crack growth from an assumed crack of depth of 0.04 inches (1 mm) 
+- Fatigue stress safety factor of X_s = 1.5
+- Material must be a steel, aluminum, or titanium alloy
 
-Images of the CAD model are shown below. The key dimensions of my design are L = 20 inches, h = 0.6 inches, b = 0.25 inches, and c = 1.
+Images of the CAD model are shown below. 
+![CAD Image 1]({{ "/assets/images/3270_Torque_Wrench_CAD1.png" | relative_url }}){: style="width: 600px"}
+![CAD Image 2]({{ "/assets/images/3270_Torque_Wrench_CAD2.png" | relative_url }}){: style="width: 600px"}
+
+The key dimensions of my design are:
+L (Distance from center of drive to where load is applied) = 20 inches
+h (width of wrench handle) = 0.6 inches
+b (thickness of wrench handle) = 0.25 inches
+c (distance from center of drive to center of strain gauge) = 1.
 
 The boundary condition used in this project was adding clamped conditions to the drive (meaning that the displacement in the x, y, and z directions was zero). Force was applied at the other end of the wrench in the x direction with a magnitude of M/L = 30 lbf. Photos are shown below of the boundary condition and force, respectively.
 ![Boundary Condition]({{ "/assets/images/3270_Torque_Wrench_BC.png" | relative_url }}){: style="width: 600px"}
 
 ![Force Applied]({{ "/assets/images/3270_Torque_Wrench_Force.png" | relative_url }}){: style="width: 600px"}
 
-The material that I used was AISI 4340. Here are the relevant mechanical properties that I used for my analysis:
+The material that I used was AISI 4340. This material was chosen because the goal here is to maximize the strain to get the highest output possible. So, we concluded that this can be achieved by choosing a material that maximizes yield strength and fracture toughness. Below is a fracture toughness vs. yield strength for alloys using Granta:
+
+Here are the relevant mechanical properties of AISI 4340 that I used for my analysis:
 Young’s Modulus: 29 x 10^6 psi
 Poisson’s ratio: 0.32
 Yield strength: 217 ksi
