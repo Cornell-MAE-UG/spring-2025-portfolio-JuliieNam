@@ -3,7 +3,7 @@ layout: project
 title: Heat Exchanger Analysis
 description: Thermodynamics Mini-Lab Activity
 technologies: [In-Lab tools]
-image: /assets/images/adapt-a-bit.png
+image: /assets/images/Thermo_HE_1.png
 ---
 
 A heat exchanger is used to transfer thermal energy from one fluid to another without them actually mixing. They are used everywhere, such as power plants, refrigeration, air conditioners, and electric generation. Below are pictures of a heat exchanger that I observed during a mini lab for my thermodynamics class. A cross sectional cut is also depicted below.
