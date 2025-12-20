@@ -16,7 +16,7 @@ In a mini-lab activity for my thermodynamics class at Cornell, I observed parall
 
 ![Counter flow]({{ "/assets/images/Thermo_HE_Setup2.png" | relative_url }}){: style="width: 600px"}
 
-A solid wall usually separates the hot and cold fluids that flow through the system. Heat moves from the hotter fluid to the cooler fluid through the wall, which is known as conduction. The fluids' flow carries heat energy throughout the system, which is known as convection. 
+A solid wall usually separates the hot and cold fluids that flow through the heat exchanger. Heat moves from the hotter fluid to the cooler fluid through the wall, which is known as conduction. The fluids' flow carries heat energy throughout the system, which is known as convection. 
 
 Below is a diagram that depicts an ideal heat exchanger system. I am assuming that the system is steady state control volume, the change in kinetic and potential energies can be neglected, the system is adiabatic, and there is no work done. We could see how the heat loss by the hot fluid is equal to the heat gain of the cold fluid. This heat transfer is primarily driven by temperature difference of outlet vs inlet of each fluid, assuming that pressure is kept constant.
 
