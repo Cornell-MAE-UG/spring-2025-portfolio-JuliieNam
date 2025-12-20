@@ -6,11 +6,11 @@ technologies: [In-Lab tools]
 image: /assets/images/Thermo_HE_1.png
 ---
 
-A heat exchanger is used to transfer thermal energy from one fluid to another without them actually mixing. They are used everywhere, such as power plants, refrigeration, air conditioners, and electric generation. Above is the photo of what the heat exchanger looks like. Below is a crosss sectional look at the heat exchanger from one end.
+A heat exchanger is used to transfer thermal energy from one fluid to another without them actually mixing. They are used everywhere, such as power plants, refrigeration, air conditioners, and electric generation. Above is the photo of what a heat exchanger looks like. Below is a cross sectional look at the heat exchanger from one end.
 
 ![Heat Exchanger]({{ "/assets/images/Thermo_HE_2.png" | relative_url }}){: style="width: 600px"}
 
-Below are photos of the heat exchanger setup in the lab. The first one is the parallel flow setup while the second one is the counter flow setup.
+In a mini-lab activity for my thermodynamics class at Cornell, I observed parallel flow vs counter flow heat exchanger through measuring the inlet and outlet temperature of both cold and hot water. Below are photos of the heat exchanger setup in the lab. The first one is the parallel flow setup while the second one is the counter flow setup.
 
 ![Parallel Flow]({{ "/assets/images/Thermo_HE_Setup1.png" | relative_url }}){: style="width: 600px"}
 
