@@ -2,7 +2,7 @@
 layout: project
 title: Heat Exchanger Analysis
 description: Thermodynamics Mini-Lab Activity
-technologies: [In-Lab tools]
+technologies: [In-lab tools, Mathematics, Thermodynamic equations]
 image: /assets/images/Thermo_HE_1.png
 ---
 
