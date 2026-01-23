@@ -13,14 +13,14 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in mathematics, physics, and 3D modeling. Passionate about learning about aerospace and space engineering and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mathematics, physics, and 3D modeling. Passionate about learing about mechanical design and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.469/4.0 | Graduation: May, 2027
+  GPA: 3.498/4.0 | Graduation: May, 2027
 
 - **Bergen County Technical High School, Teterboro, NJ**  
   *High School Diploma*  
@@ -32,6 +32,7 @@ Aspiring engineering student with a strong foundation in mathematics, physics, a
 - **Design:** Fusion 360, MATLAB, Abaqus, Siemens NX, Bambu Studio
 - **Computer Software:** Excel, Python, HTML, CSS, Google Suite, Microsoft Office
 - **Hands-on Manufacturing:** 3D printing, power tools, metal and woodcutting, drilling press
+- **Languages:** English (fluent), Korean (fluent)
 
 ---
 
