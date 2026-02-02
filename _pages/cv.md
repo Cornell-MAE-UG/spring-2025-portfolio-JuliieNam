@@ -37,11 +37,18 @@ Aspiring engineering student with a strong foundation in mathematics, physics, a
 ---
 
 #### Projects
-- **Adapt-a-bit, Intro to Mechanical Design project**                                                            
+- **Torque Wrench Design Project, Mechanics of Materials Project**
+  December 2025
+  - Designed a torque wrench using Fusion 360, meeting target strain gauge readings under a given loading value
+  - Optimized dimensions and materials to satisfy yield, crack growth, and fatigue safety factors
+  - Simulated stress, strain, and deflection in ANSYS under specified boundary and loading conditions
+  - Calculated stress, strain, deflection, and safety factor values using MATLAB to validate FEA results
+
+- **Adapt-a-bit, Intro to Mechanical Design Project**                                                            
   January 2025 – May 2025
-  - Designed a multiuse keychain case that includes a screwdriver and tape measure with a team of 3 people
+  - Created a multiuse keychain case that includes a screwdriver and tape measure with a team of 3 people
   - Researched and interviewed 10 people to focus on a common design problem faced by them
-  - Developed 4 prototypes using Fusion 360, incorporating feedback from TAs in each iteration
+  - Built 4 prototypes using Fusion 360, incorporating feedback from TAs in each iteration
   - Tested the quality of the prototype through a stacking test, drop test, and size test
   - Developed a Pugh matrix chart to decide on which prototype has the potential to be further developed into a final model, focusing on size, storage, ease of use, and safety
 
@@ -56,15 +63,22 @@ Aspiring engineering student with a strong foundation in mathematics, physics, a
 ---
 
 #### Work Experience
-- **Cornell Space Structure Lab - Undergraduate researcher**  
+
+- **Undergraduate Teaching Assistant, Intro to Mechanical Design**
+  January 2026 – Present
+  - Held weekly office hours to mentor students on design concepts and CAD tools to complete their projects
+  - Supported a class of ~200 students by covering lab sections and assisting in assignment development
+
+- **Undergraduate Researcher, Cornell Space Structure Lab**  
   May 2025 - Present  
-  - Develop a new method to manufacture composite structures with the least possible imperfections
   - Designed PLA mold prints using Fusion 360 to create silicone molds for composite manufacturing
   - Ran FEA simulations of plate deformations under pressure with Abaqus, reducing deformation by 92.3%
   - Manufactured composite layups using silicone molds to scan for imperfections and compare to FEA results
   - Awarded $2,712 by Boeing after submitting proposal to the Cornell Office of Inclusive Excellence
+  - Attended biweekly meetings to meet with PhD students to give update on progress and discuss plans for project
 
-- **Cornell Fitness Center, Fitness Monitor**                                                                            August 2024 – Present
+- **Fitness Monitor, Cornell Fitness Center**
+  August 2024 – Present
   - Performed routine inspection, adjustment, and basic maintenance of an average of 60 gym equipment at 4 different fitness centers, building hands-on troubleshooting skills
   - Applied safety protocols and maintained equipment logs, ensuring safety and organization
   - Collaborated with staff and members to communicate technical instructions clearly, strengthening teamwork and customer service skills under pressure, with peak times reaching 80 to 90% gym capacity
