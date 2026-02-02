@@ -44,7 +44,7 @@ Aspiring engineering student with a strong foundation in mathematics, physics, a
   - Simulated stress, strain, and deflection in ANSYS under specified boundary and loading conditions
   - Calculated stress, strain, deflection, and safety factor values using MATLAB to validate FEA results
 
-- **Adapt-a-bit, Intro to Mechanical Design Project**                                                            
+- **Adapt-a-bit, Intro to Mechanical Design Project**
   January 2025 – May 2025
   - Created a multiuse keychain case that includes a screwdriver and tape measure with a team of 3 people
   - Researched and interviewed 10 people to focus on a common design problem faced by them
@@ -69,7 +69,7 @@ Aspiring engineering student with a strong foundation in mathematics, physics, a
   - Held weekly office hours to mentor students on design concepts and CAD tools to complete their projects
   - Supported a class of ~200 students by covering lab sections and assisting in assignment development
 
-- **Undergraduate Researcher, Cornell Space Structure Lab**  
+- **Undergraduate Researcher, Cornell Space Structure Lab**
   May 2025 - Present  
   - Designed PLA mold prints using Fusion 360 to create silicone molds for composite manufacturing
   - Ran FEA simulations of plate deformations under pressure with Abaqus, reducing deformation by 92.3%
