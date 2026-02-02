@@ -6,7 +6,7 @@ title: <Julie Nam>
 ## About Me
 
 
-![Profile Picture]({{ "/assets/images/profile_pic.png" | relative_url }}){: style="width:250px; height:auto;" class="profile-image"}
+![Profile Picture]({{ "/assets/images/profile_pic.png" | relative_url }}){: style="width:300px; height:auto;" class="profile-image"}
 
  
 My name is Julie, and I'm a sophomore undergraduate student at Cornell University, majoring in mechanical engineering! I love working on hands-on projects; I'm hoping to gain more experience with 3D modeling complex structures as well as applying my academic knowledge to real-life projects.
