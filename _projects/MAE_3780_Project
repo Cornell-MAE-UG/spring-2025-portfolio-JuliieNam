@@ -3,7 +3,7 @@ layout: project
 title: Mechatronics Robot
 description: MAE 3780 Final Project
 technologies: [Arduino, Circuit, Laser cutting, 3D printing]
-image: /assets/images/MAE_3230_Lawnmower.png
+image: /assets/images/3780_Robot_Picture.png
 ---
 
 For my mechatronics class, our final project was building a robot that could compete in a Cube Craze Competition. 
