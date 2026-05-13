@@ -8,4 +8,4 @@ image: /assets/images/3780_Robot_Picture.png
 
 For my mechatronics class, our final project was building a robot that could compete in a Cube Craze Competition. The goal of this competition is for our robot to collect more cubes than the opponent robot within one minute. I workedin a team of 3 to create this robot with a budget of $40. I contributed to the coding of the robot, mainly with the detection of color change using a color sensor as well as detecting black with the QTI sensor. I also helped design and laser cut the side arms of the robot that is protecting the wheels. Overall, this was a fun experience that helped me learn more about combining both mechanical design and electronics as well as working in a team under a budget and time constraint.
 
-Below is our final report:
+Below is our final report: [Mechatronics Report]({{ "/assets/MAE 3780 Final Report.pdf" | relative_url }})
