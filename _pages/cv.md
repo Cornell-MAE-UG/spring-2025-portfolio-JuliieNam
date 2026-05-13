@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Julie - Curriculum Vitae
-permalink: /cv/
+title: Julie - Résumé
+permalink: /Résumé/
 ---
-## Curriculum Vitae
+## Résumé
 
-[Download my CV]({{ "/assets/Julie Nam Resume.pdf" | relative_url }}) in PDF format.
+[Download my Résumé]({{ "/assets/Julie Nam Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [jsn77@cornell.edu](mailto:netID@cornell.edu) | | |
