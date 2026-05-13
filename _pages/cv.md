@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Julie - Résumé
-permalink: /Résumé/
+permalink: /cv/
 ---
 ## Résumé
 
