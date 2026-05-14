@@ -13,4 +13,4 @@ My name is Julie, and I'm a junior undergraduate student at Cornell University, 
 
 In my free time, I enjoy discovering new music, working out, and watching movies.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/résumé/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/résumé/" | relative_url }}">résumé</a>.
